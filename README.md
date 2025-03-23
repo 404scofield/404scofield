@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="postgres" />
 </div>
 <hr>
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=404scofield&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="404scofield's stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=404scofield&theme=dark&hide_border=true" alt="404scofield's streak" />
 </div>
